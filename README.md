@@ -3,7 +3,7 @@
 Thank you for such a great opportunity. This is an event app created as an assessment.
 ## Setup Steps
 - Clone the project from GitHub using below command <br/>
-` git clone git url`
+` https://github.com/anishansari/eventApp.git`
 - Then Go to the Project Folder<br/>
 `cd eventapp`
 - Run the following command<br/>
