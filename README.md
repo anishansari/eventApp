@@ -1,6 +1,8 @@
 
 ## Event App
-Thank you for such a great opportunity. This is an event app created as an assessment.
+Thank you for such a great opportunity. This is an event app created as an assessment.<br/>
+
+- Laravel version 8 is used and that requires php 7.3 or higher
 ## Setup Steps
 - Clone the project from GitHub using below command <br/>
 ` https://github.com/anishansari/eventApp.git`
